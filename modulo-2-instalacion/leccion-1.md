@@ -1,6 +1,5 @@
 Lección 1: Instalando Node.js y Visual Studio Code
-
-Objetivo
+Objetivo:
 Instalar las dos herramientas principales para trabajar con Next.js: Node.js (el motor que hace funcionar tu proyecto) y Visual Studio Code (el editor donde escribirás tu código).
 
 1. ¿Qué es Node.js?
@@ -10,11 +9,11 @@ Es gratuito y funciona en Windows, Mac y Linux.
 Pasos para instalar Node.js
 Ve a nodejs.org
 
-Haz clic en el botón verde “LTS” (versión recomendada).
+Haz clic en el botón verde “LTS” (versión recomendada)
 
-Descarga el instalador y ábrelo.
+Descarga el instalador y ábrelo
 
-Haz clic en “Siguiente” en todas las ventanas hasta finalizar.
+Haz clic en “Siguiente” en todas las ventanas hasta finalizar
 
 Cuando termine, abre la terminal o símbolo del sistema (CMD) y escribe:
 node -v
@@ -28,9 +27,9 @@ Permite escribir, organizar y probar tus proyectos de programación.
 Pasos para instalar VS Code
 Ve a code.visualstudio.com
 
-Haz clic en “Download for Windows” (o el sistema que uses).
+Haz clic en “Download for Windows” (o el sistema que uses)
 
-Instala como cualquier programa (siguiente, siguiente…).
+Instala como cualquier programa (siguiente, siguiente…)
 
 Abre VS Code y verás una pantalla similar a esta:
 (Aquí puedes poner una imagen de ejemplo: vscode-inicio.png)
@@ -41,12 +40,10 @@ Si Node.js no aparece después de instalar, reinicia tu computadora.
 Si VS Code se instala pero no abre, intenta instalar de nuevo o revisa tu antivirus.
 
 4. Ejercicio práctico
-Abre la terminal (CMD, PowerShell o Terminal en Mac).
+Abre la terminal (CMD, PowerShell o Terminal en Mac)
 
-Escribe:
-node -v
-y luego:
-npm -v
+Escribe: node -v y luego npm -v
+
 Ambos deben mostrar un número.
 
 Abre VS Code y explora los menús, abre una carpeta de prueba y cierra.
