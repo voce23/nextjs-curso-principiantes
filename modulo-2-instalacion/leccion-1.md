@@ -1,4 +1,5 @@
 Lección 1: Instalando Node.js y Visual Studio Code
+
 Objetivo
 Instalar las dos herramientas principales para trabajar con Next.js: Node.js (el motor que hace funcionar tu proyecto) y Visual Studio Code (el editor donde escribirás tu código).
 
